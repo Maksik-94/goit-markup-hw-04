@@ -170,11 +170,11 @@ ol {
   background-color: var(--color-sacondary);
   border-radius: 2px;
 }
-.navigation__item svg {
+.contact-list svg {
   height: 16px;
   width: 20px;
   margin-right: 10px;
-  fill: #212121;
+  fill: var(--color-grey);
 }
 .navigation__item:hover svg,
 .navigation__item:focus svg,
